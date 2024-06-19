@@ -1,1 +1,6 @@
+#to access c and d drives on windows
 $cd /mnt/c
+
+#to access desktop of windows
+$cd /mnt/c/users/lenovo/desktop
+$ls
