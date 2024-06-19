@@ -18,5 +18,7 @@ $nano test.txt
 >ubuntu2004 config --default-user root
 this command will open the ubuntu in root user during next startup
 now open ubuntu terminal and use $passwd root command to reset password
+2. restore your default ubuntu user with the following command and logout
+>ubuntu2004 config --default-user ubuntu01
 
 
