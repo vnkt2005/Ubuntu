@@ -12,3 +12,11 @@ $touch test.txt
 $nano test.txt
 
 #to open bash terminal go to windows command prompt and type c:>bash command
+
+#if you forget root password
+1. goto windows prompt and type following command, here 2004 is ubuntu version
+>ubuntu2004 config --default-user root
+this command will open the ubuntu in root user during next startup
+now open ubuntu terminal and use $passwd root command to reset password
+
+
