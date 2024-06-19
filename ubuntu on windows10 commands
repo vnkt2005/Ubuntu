@@ -10,3 +10,5 @@ $touch test.txt
 
 #nano is text editor tool
 $nano test.txt
+
+#to open bash terminal go to windows command prompt and type c:>bash command
