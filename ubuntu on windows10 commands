@@ -4,3 +4,9 @@ $cd /mnt/c
 #to access desktop of windows
 $cd /mnt/c/users/lenovo/desktop
 $ls
+
+#to open new file on desktop
+$touch test.txt
+
+#nano is text editor tool
+$nano test.txt
